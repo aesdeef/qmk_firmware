@@ -1,3 +1,7 @@
+# Ignore other keyboards
+/keyboards/**
+!/keyboards/splitkb/kyria/**
+
 # Junk files
 *.bak
 *.swp
